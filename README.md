@@ -1,3 +1,5 @@
+[![Build	Status](https://travis-ci.org/margretfinn/stringCalcWeb)](https://github.com/margretfinn/stringCalcWeb.git)
+
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
 # Continuous Integration with Travis & Heroku
@@ -66,7 +68,7 @@ You will need:
 
 1. A basic understanding of how Heroku and Travis can communicate: [http://docs.travis-ci.com/user/deployment/heroku/](http://docs.travis-ci.com/user/deployment/heroku/)
 2. Travis command line tools: [https://github.com/travis-ci/travis.rb](https://github.com/travis-ci/travis.rb)
-
+3.Help i need somebody, help not just anybody, heeeeeelp
 
 
 
