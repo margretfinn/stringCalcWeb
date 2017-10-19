@@ -1,4 +1,4 @@
-[![Build	Status](https://travis-ci.org/margretfinn/stringCalcWeb)](https://github.com/margretfinn/stringCalcWeb.git)
+[![Build	Status](https://travis-ci.org/margretfinn/stringCalcWeb)](https://travis-ci.org/margretfinn/stringCalcWeb)
 
 Software Engineering (C-T-303-HUGB), Week 10 Fall Semester 2017
 
